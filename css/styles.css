@@ -3,9 +3,16 @@ body {
   color: white;
 }
 hr {
-  background-color: black;
+  background-color: white;
   border-style: none;
   border-top-style: dotted;
   border-width: 5px;
   width: 30%;
+}
+
+h1 {
+  color: #66BFBF;
+}
+h3 {
+  color: #66BFBF;
 }
