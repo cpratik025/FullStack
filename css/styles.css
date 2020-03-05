@@ -22,3 +22,11 @@ h3 {
 h2 {
   color: #f9fcfb;
 }
+.new{
+  background-color: #1b262c;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 30%;
+  align-self: center;
+}
